@@ -1,5 +1,5 @@
 # AlgorithmsAndDatastructures 
-Algorithms and Data Structures in go - Problems set are from l[leetcode.com](https://leetcode.com/problemset/all/) 
+Algorithms and Data Structures in go - Problems set are from [leetcode.com](https://leetcode.com/problemset/all/) 
 
 The Problems set are being taken from [leetcode](https://leetcode.com/problemset/all/) . 
 
