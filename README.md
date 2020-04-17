@@ -1,5 +1,7 @@
-# AlgorithmsAndDatastructures
-Algorithms and Data Structures in go
+# AlgorithmsAndDatastructures 
+Algorithms and Data Structures in go - Problems set are from leetcode.com .
+
+(The Problems set are being taken from [leetcode](https://leetcode.com/problemset/all/) . 
 
 
 1. [Maximum consecutive 1's in an array of zeros and ones .](https://play.golang.org/p/KtNr9XS6aOT) 
