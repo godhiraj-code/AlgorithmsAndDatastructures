@@ -12,10 +12,11 @@ Algorithms and Data Structures in go
   b) then pass that incremented counter variable into a function that will find the no of max consecutive 1 
   
   
- 2.[Find Numbers with Even Number of Digits](https://play.golang.org/p/KP1Mt-LxcGc) 
- -- Given an array nums of integers, return how many of them contain an even number of digits. 
+2. [Find Numbers with Even Number of Digits](https://play.golang.org/p/KP1Mt-LxcGc) 
+
+-- Given an array nums of integers, return how many of them contain an even number of digits. 
  
- **My approach**: 
+**My approach** : 
   just divide the number iteratively by 10 to find the no of digits and return it . (need to do it in more efficient way), will come back later. 
   
 
