@@ -22,5 +22,9 @@ The Problems set are being taken from [leetcode](https://leetcode.com/problemset
   just divide the number iteratively by 10 to find the no of digits and return it . (need to do it in more efficient way), will come back later. 
   
 
+3. [Find squares of a sorted Array](https://play.golang.org/p/M-jWgNXpW7w)
 
+--Given an array of integers A sorted in non-decreasing order, return an array of the squares of each number, also in sorted non-decreasing order.
 
+**My approach** :
+First I range over the array to find the squares and then sorted that array by looping over the slice and comparing the element and then swapping the element in ascending order of their value 
