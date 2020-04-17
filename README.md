@@ -2,7 +2,7 @@
 Algorithms and Data Structures in go
 
 
-1. [Maximum consecutive 1's in an array of zeros and ones .](hhttps://play.golang.org/p/KtNr9XS6aOT) 
+1. [Maximum consecutive 1's in an array of zeros and ones .](https://play.golang.org/p/KtNr9XS6aOT) 
 
 -- Given an array of 1's and 0's , We need to find the maximum consecutive's 1 that can be in that array. 
 
