@@ -6,7 +6,7 @@ Algorithms and Data Structures in go
 
 -- Given an array of 1's and 0's , We need to find the maximum consecutive's 1 that can be in that array. 
 
-My approach :  
+**My approach** :  
   a) range over that array and check the value , if value is zero , then assign a counter variable to zero 
   otherwise , increment the counter variable
   b) then pass that incremented counter variable into a function that will find the no of max consecutive 1 
@@ -15,7 +15,7 @@ My approach :
  2.[Find Numbers with Even Number of Digits](https://play.golang.org/p/KP1Mt-LxcGc) 
  -- Given an array nums of integers, return how many of them contain an even number of digits. 
  
- My approach: 
+ **My approach**: 
   just divide the number iteratively by 10 to find the no of digits and return it . (need to do it in more efficient way), will come back later. 
   
 
