@@ -35,3 +35,13 @@ First I range over the array to find the squares and then sorted that array by l
 
 **My approach** :
 First, I am finding the indexes where 0 is present in the slice and assigning the indexes in a new slice , with the new slice of indexes I got, I loop it through in descending order and shift the elements of the arrays position from the second last element till the index where 0 is present and then assign 0 to the element once the space becomes empty.
+
+
+5. [Merge Sorted Array](https://play.golang.org/p/wDmZUPNiKFg)
+
+--Given two sorted integer arrays nums1 and nums2, merge nums2 into nums1 as one sorted array.
+
+**My approach** : 
+Merge the arrays nums1 and nums2 into nums1 but before merging , create a temporary slice with m no of elements, so that only the relevant info is being copied from nums1 array to temp array and then sort the slice 
+
+
