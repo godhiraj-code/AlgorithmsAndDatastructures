@@ -28,3 +28,10 @@ The Problems set are being taken from [leetcode](https://leetcode.com/problemset
 
 **My approach** :
 First I range over the array to find the squares and then sorted that array by looping over the slice and comparing the element and then swapping the element in ascending order of their value 
+
+4. [Duplicate Zeros](https://play.golang.org/p/Gm5QpvbzceM)
+
+--Given a fixed length array arr of integers, duplicate each occurrence of zero,
+
+**My approach** :
+First, I am finding the indexes where 0 is present in the slice and assigning the indexes in a new slice , with the new slice of indexes I got, I loop it through in descending order and shift the elements of the arrays position from the second last element till the index where 0 is present and then assign 0 to the element once the space becomes empty.
