@@ -44,4 +44,7 @@ First, I am finding the indexes where 0 is present in the slice and assigning th
 **My approach** : 
 Merge the arrays nums1 and nums2 into nums1 but before merging , create a temporary slice with m no of elements, so that only the relevant info is being copied from nums1 array to temp array and then sort the slice 
 
+6. [Remove element](https://play.golang.org/p/RrnyzjPw0fg)
+
+--Given an array nums and a value val, remove all instances of that value in-place and return the new length.
 
